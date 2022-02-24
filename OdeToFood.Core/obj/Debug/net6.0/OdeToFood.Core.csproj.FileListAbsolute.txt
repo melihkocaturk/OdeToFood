@@ -1,0 +1,12 @@
+D:\Repo\OdeToFood\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.deps.json
+D:\Repo\OdeToFood\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.dll
+D:\Repo\OdeToFood\OdeToFood.Core\bin\Debug\net6.0\ref\OdeToFood.Core.dll
+D:\Repo\OdeToFood\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.pdb
+D:\Repo\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.csproj.AssemblyReference.cache
+D:\Repo\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\Repo\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.AssemblyInfo.cs
+D:\Repo\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\Repo\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.dll
+D:\Repo\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\ref\OdeToFood.Core.dll
+D:\Repo\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.pdb
